@@ -9,9 +9,6 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-
-  <groupId>com.dianping.abtest</groupId>
-
   <artifactId>abtest-server</artifactId>
   <packaging>jar</packaging>
 

@@ -1,4 +1,4 @@
-package com.dianping.abtest.client;
+package com.dianping.abtest;
 
 public class Test {
 

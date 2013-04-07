@@ -1,4 +1,4 @@
-package com.dianping.abtest;
+package com.dianping.abtest.spi;
 
 import java.util.Map;
 
